@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const schedule = generateDummyGames(300);
-const correctPassword = 'fightballadmin3';
+const correctPassword = 'admin3';
 
 function generateDummyGames(number) {
     const games = [];
